@@ -4,7 +4,6 @@ char= string.upper(char)
 print("Show")
 
 
-string1="lua"
 
 print([["字符串"]],string1)
 
