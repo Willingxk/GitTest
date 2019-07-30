@@ -1,7 +1,7 @@
 
 local char="kasdjuqew"
 char= string.upper(char)
-print(char)
+print("Your are so beautiful")
 
 string1="lua"
 print([["字符串"]],string1)
